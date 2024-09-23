@@ -1,8 +1,11 @@
 {
-  "name": "bla",
+  "name": "@y1fa/bla",
   "version": "1.0.0",
   "description": "Bla Bla",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
   "author": "y1fa <57900800+y1fa@users.noreply.github.com>",
   "license": "MIT",
   "private": true
