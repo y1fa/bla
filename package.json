@@ -1,0 +1,9 @@
+{
+  "name": "bla",
+  "version": "1.0.0",
+  "description": "Bla Bla",
+  "main": "index.js",
+  "author": "y1fa <57900800+y1fa@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
